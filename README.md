@@ -3,6 +3,10 @@ Repo with hashicorp terraform native tests examples
 ## Motivation
 I failed to find some useful examples, and [documentation](https://developer.hashicorp.com/terraform/language/tests#modules-state) is quite limited
 That's why I created this repo to show own findings.
+## Prerequisites to run this code
+*  installed ``terraform ``. [How-to](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+* aws credentials in your env
+  * Use env vars or credentials file
 ## Pros and cons table
 | Pros                          | Cons                                                                                           |
 |-------------------------------|------------------------------------------------------------------------------------------------|
